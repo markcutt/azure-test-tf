@@ -1,0 +1,3 @@
+Test Cases step
+1. create  Vnet
+2. assign cidr block 10.0.0.0/24
